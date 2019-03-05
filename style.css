@@ -1,0 +1,72 @@
+h1{ text-align: center;
+	font-family: 'Playfair Display SC', serif;
+	font-size: 55px;
+	text-decoration: underline;
+
+}
+
+h2{ text-align: center;
+	font-family: 'Playfair Display SC', serif;
+	font-size: 15px;
+	padding: 5px;
+
+ }
+
+ul {
+	padding: 20px;
+	text-align: center;
+
+}
+
+li { 
+display: inline;
+margin-left: 30px;
+font-family: 'Playfair Display SC', serif;
+font-size: 15px;
+
+ }
+
+h3{
+	font-size: 30px;
+	font-family: 'Noto Serif', serif;
+	padding: 10px;
+	color: #cc0000;
+}
+
+
+h4{
+	font-size: 24px;
+	font-family: 'Playfair Display SC', serif;
+	font-style: italic;
+	float: left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+}
+
+.image1{
+	padding: 10px;
+	float: left;
+}
+
+.column2{
+	float: right;
+	
+}
+
+
+p{
+	font-size: 15px;
+	font-family: 'Playfair Display SC', serif;
+	text-decoration: underline;
+
+}
+
+.image2{
+	padding: 5px;
+	width: 140px;
+	height: 120px;
+	margin: auto;
+
+}
+
+
